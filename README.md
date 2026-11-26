@@ -67,8 +67,9 @@ compliant, 95.6% drawdown), pilot sniper −0.468 (compliant), pilot reversion �
 
 Shipped variant detail: net PnL −0.2942 SOL, 487 fills, 245 distinct coins with
 counted round trips (bar: 20), max drawdown 3.02% (bar: 50%), win rate 24.5%,
-90% bootstrap interval [−0.505, −0.098] SOL, `result_sha256`
-`576689748e07ee3c613bd55170c6a04b423f0c9d25119330972e68dbe96c2846`.
+90% bootstrap interval [−0.505, −0.098] SOL, `action_log_sha256`
+`25a86c29b0c67e9771829aa0583f47f8f4b7d75bb0e4656555636054a7b71a22` (identical across
+repeated grades of the shipped code, including the committed HEAD).
 
 ## Layout
 
